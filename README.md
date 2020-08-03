@@ -1,3 +1,5 @@
-# learningcpp
+3D Snake
 
-Developed with Unreal Engine 4
+COMP313 - Assignment 1
+
+Josh Bolitho
